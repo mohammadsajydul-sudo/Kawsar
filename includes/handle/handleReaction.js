@@ -4,7 +4,7 @@ module.exports = function ({ api, models, Users, Threads, Currencies }) {
     const { messageID, threadID, reaction } = event;
 
     // 👉 শুধু 🐣 বা 😡 রিঅ্যাকশনে unsent হবে
-    if (reaction === "🐣" || reaction === "😡") {
+    if (reaction === "🐣" || reaction === "🤬") {
       try {
         api.unsendMessage(messageID);
         console.log(`✅ Reaction (${reaction}) detected → Unsent message: ${messageID}`);
