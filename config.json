@@ -16,15 +16,15 @@
     "EMAIL": "",
     "PASSWORD": "",
     "OTPKEY": "",
-    "BOTNAME": "🔰𝗥𝗮𝗵𝗮𝘁_𝗕𝗼𝘁🔰",
-    "PREFIX": "-",
+    "BOTNAME": "' RkRIDI:-)💙✨",
+    "PREFIX": "/",
     "ADMINBOT": [
-        "61579782879961",
-        "64582708907908",
-        "61584194023750"
+        "100014250310077",
+        "100088628231538",
+        "61585946066143"
     ],
     "NDH": [
-        "61579782879961"
+        "61584172432778"
     ],
     "DATABASE": {
         "sqlite": {
@@ -106,7 +106,7 @@
     },
     "help": {
         "autoUnsend": true,
-        "delayUnsend": 30
+        "delayUnsend": 120
     },
     "pokemon": {
         "APIKEY": ""
@@ -228,13 +228,13 @@
     "god": {
         "enable": true
     },
-    "antigali": {
-        "autoUnsend": true,
-        "delayUnsend": 20
-    },
-    "song": {
+    "help2": {
         "autoUnsend": true,
         "delayUnsend": 300
+    },
+    "helpall": {
+        "autoUnsend": true,
+        "delayUnsend": 20
     },
     "vip": {
         "cooldownTime": 1200000
