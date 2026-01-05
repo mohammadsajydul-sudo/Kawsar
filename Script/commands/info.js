@@ -7,7 +7,7 @@ module.exports.config = {
  name: "info",
  version: "1.0.0",
  hasPermssion: 0,
- credits: "🔰Rahat Islam🔰",
+ credits: "🔰RK RIDI🔰",
  description: "Show  Info",
  commandCategory: "info",
  usages: "info",
@@ -22,12 +22,12 @@ module.exports.run = async function({ api, event }) {
 ┏━━━━━━━━━━━━━━━━━━┓
 ┃   🌟 𝗢𝗪𝗡𝗘𝗥 𝗜𝗡𝗙𝗢 🌟    
 ┣━━━━━━━━━━━━━━━━━━┫
-┃👤 𝗡𝗔𝗠𝗘      : 🔰𝗥𝗔𝗛𝗔𝗧🔰
-┃🚹 𝗚𝗘𝗡𝗗𝗘𝗥    : 𝗠𝗔𝗟𝗘
+┃👤 𝗡𝗔𝗠𝗘      : 🔰RK RIDI🔰
+┃🚹 𝗚𝗘𝗡𝗗𝗘𝗥    : FEMALE
 ┃🎂 𝗔𝗚𝗘       : 16
 ┃🕌 𝗥𝗘𝗟𝗜𝗚𝗜𝗢𝗡 : 𝗜𝗦𝗟𝗔𝗠
 ┃🏫 𝗘𝗗𝗨𝗖𝗔𝗧𝗜𝗢𝗡 : বয়ড়া ইসরাইল 
-┃🏡 𝗔𝗗𝗗𝗥𝗘𝗦𝗦 : জামালপুর, বাংলাদেশ 
+┃🏡 𝗔𝗗𝗗𝗥𝗘𝗦𝗦 : খুলনা, বাংলাদেশ 
 ┣━━━━━━━━━━━━━━━━━━┫
 ┃𝗧𝗜𝗞𝗧𝗢𝗞 : @where.is.she15
 ┃📢 𝗧𝗘𝗟𝗘𝗚𝗥𝗔𝗠 : আছে 🥴🤪
