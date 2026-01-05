@@ -3,7 +3,7 @@ module.exports.config = {
 	name: "0admin",
 	version: "1.0.5",
 	hasPermssion: 3,
-	credits: "🔰Rahat Bot🔰",
+	credits: "🔰RK RIDI Bot🔰",
 	description: "Admin Config",
 	commandCategory: "Admin",
 	usages: "Admin",
